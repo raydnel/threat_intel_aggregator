@@ -1,6 +1,6 @@
 # Threat Intelligence Aggregator
 
-This script uses the Shodan API and additional sources to aggregate threat intelligence data.
+This simple script uses the Shodan API and additional sources to aggregate threat intelligence data.
 
 ## Installation
 
