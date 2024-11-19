@@ -9,7 +9,7 @@ This simple script uses the Shodan API and additional sources to aggregate threa
 pip install shodan
 
 
-2. Replace `"YOUR_API_KEY"` with your actual Shodan API key and `"YOUR_IPDATA_KEY"` with your API key from ipdata.co.
+2. Replace `"YOUR_API_KEY"` with your actual Shodan API key and `"YOUR_IPDATA_KEY"` with your API key from ipdata.com
 
 ## Usage
 
