@@ -6,10 +6,10 @@ This simple script uses the Shodan API and additional sources to aggregate threa
 
 1. Install the required libraries by running the following command in your terminal or command prompt:
 
-pip install shodan
+pip install shodan                                                                                                                                                         
+pip install aiohttp
 
-
-2. Replace `"YOUR_API_KEY"` with your actual Shodan API key and `"YOUR_IPDATA_KEY"` with your API key from ipdata.com
+2. Replace `"YOUR_API_KEY"` with your actual Shodan API key and `"YOUR_IPDATA_KEY"` with your API key from ipdata.com. I'm storing my API Keys in Environment Variables. 
 
 ## Usage
 
